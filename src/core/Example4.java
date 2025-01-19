@@ -1,6 +1,8 @@
+package core;
+
 public class Example4 {
     public static void main(String[] args) {
-        // Создаем анонимный класс, реализующий интерфейс Greeting
+        // Создаем анонимный класс, реализующий интерфейс core.Greeting
         Greeting greeting = new Greeting() {
             @Override
             public void sayHello() {
