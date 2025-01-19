@@ -1,3 +1,5 @@
+package core;
+
 public class Example2 {
     public static void main(String[] args) {
         // Для создания объекта статического вложенного класса не нужно создавать объект внешнего класса

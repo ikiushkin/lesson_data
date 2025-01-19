@@ -57,7 +57,7 @@ public class CollectionExamples {
 
         Collection<String> animals = new LinkedList<>();
         animals.add("Dog");
-        animals.add("Cat");
+        animals.add("core.Cat");
         animals.add("Horse");
 
         String[] animalArray = animals.toArray(new String[0]);

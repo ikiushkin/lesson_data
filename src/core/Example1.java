@@ -1,3 +1,5 @@
+package core;
+
 class Exapmle1 {
     public static void main(String[] args) {
         OuterClass1 outer = new OuterClass1(); // Создаем объект внешнего класса

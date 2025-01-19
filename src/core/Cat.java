@@ -1,3 +1,5 @@
+package core;
+
 public class Cat extends Animal {
 
     public Cat(Double runDistance, Double jumpHeight, Double swimDistance) {

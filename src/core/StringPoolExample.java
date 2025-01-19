@@ -1,3 +1,5 @@
+package core;
+
 public class StringPoolExample {
     public static void main(String[] args) {
         String str1 = "Hello";

@@ -1,3 +1,5 @@
+package core;
+
 abstract class Animal {
     Double runDistance;
     Double jumpHeight;

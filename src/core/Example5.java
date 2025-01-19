@@ -1,3 +1,5 @@
+package core;
+
 public class Example5 {
     public static void main(String[] args) {
         // Использование функционального интерфейса с лямбда-выражением
