@@ -26,7 +26,7 @@ class Main2 {
     public static void main(String[] args) {
         Engine2 engine = new Engine2(); // Создаем объект Engine
         Car2 car = new Car2();
-        car.setEngine(engine);          // Внедряем зависимость через сеттер
+        car.setEngine(engine);        // Внедряем зависимость через сеттер
         car.drive();
     }
 }

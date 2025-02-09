@@ -25,7 +25,7 @@ class Car1 {
 class Main1 {
     public static void main(String[] args) {
         Engine1 engine = new Engine1(); // Создаем объект Engine
-        Car1 car = new Car1(engine);    // Внедряем зависимость через конструктор
+        Car1 car = new Car1(engine);   // Внедряем зависимость через конструктор
         car.drive();
     }
 }
